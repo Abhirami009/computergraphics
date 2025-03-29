@@ -1,8 +1,4 @@
-## Name of student1 : Abhirami R Iyer
-## Roll No : 112201001
-
-## Name of student2 : Nandhana Sunil
-## Roll No : 112201008
+Project done along with Nandhana Sunil for the course Fundamentals of Computer Graphics, CS5024 at IIT Palakkad
 
 This program consists of the following files:
     - cube_grid.cpp
